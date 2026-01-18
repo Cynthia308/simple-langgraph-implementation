@@ -1,0 +1,7 @@
+langgraph
+pydantic
+langchain
+langchain-openai
+langchain-groq
+langchain-core
+langchain-community
